@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "664cb07d3b977cec67598360"
+  },
+  "naziv": "Konoba Mimbelli",
+  "adressa": "Trstenički put 28",
+  "broj_telefona": "098147582",
+  "vrsta": "Fine dining"
+},
+{
+  "_id": {
+    "$oid": "664cb0f73b977cec67598361"
+  },
+  "naziv": "Restoran Gusar",
+  "adresa": "Mediteranskih igara 25",
+  "broj_telefona": "097586324",
+  "vrsta": "Fine dining"
+},
+{
+  "_id": {
+    "$oid": "664cb14b3b977cec67598362"
+  },
+  "naziv": "Restoran Arkada",
+  "adresa": "Poljička cesta 128",
+  "broj_telefona": "092136987",
+  "vrsta": "Fine dining"
+},
+{
+  "_id": {
+    "$oid": "664cb1b13b977cec67598363"
+  },
+  "naziv": "Gastro Italiano",
+  "adresa": "Podsolarsko 25",
+  "broj_telefona": "098745612",
+  "vrsta": "Pizzeria"
+},
+{
+  "_id": {
+    "$oid": "664cb2093b977cec67598364"
+  },
+  "naziv": "Velum",
+  "adresa": "Uvala baluni 18",
+  "broj_telefona": "091478592",
+  "vrsta": "Fine dining"
+}]
